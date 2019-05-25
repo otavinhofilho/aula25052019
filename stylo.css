@@ -1,0 +1,36 @@
+body {
+    margin-left: 110px;
+    font-family: arial;
+}
+
+img {
+    width: 600px;
+}
+
+li {
+    list-style: none;
+}
+
+.cabecalho {
+    padding-left: 16px;
+    background-color: #ff7212;
+    color: white;
+}
+
+.titulo-artigo {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.linha-tempo {
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.artigo {
+    margin-right: 120px;
+    line-height: 32px;
+    color: #484848;
+
+}
